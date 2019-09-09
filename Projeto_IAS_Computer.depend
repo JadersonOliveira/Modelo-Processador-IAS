@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1559672396 source:c:\users\user\documents\projeto_ias_computer\main.cpp
+	<iostream>
+	"IASComputer.h"
+
+1559426993 source:c:\users\user\documents\projeto_ias_computer\iascomputer.cpp
+	"IASComputer.h"
+	<iostream>
+
+1559672287 c:\users\user\documents\projeto_ias_computer\iascomputer.h
+	<vector>
+	<string>
+	<cstdint>
+	<stdio.h>
+	<array>
+	<stdlib.h>
+
+1559663951 source:c:\users\matrizsestudo2019.1\desktop\projeto_ias_computer\iascomputer.cpp
+	"IASComputer.h"
+	<iostream>
+	<bitset>
+
+1559664270 c:\users\matrizsestudo2019.1\desktop\projeto_ias_computer\iascomputer.h
+	<vector>
+	<string>
+	<cstdint>
+	<stdio.h>
+	<array>
+	<stdlib.h>
+	<sstream>
+
+1559664402 source:c:\users\matrizsestudo2019.1\desktop\projeto_ias_computer\main.cpp
+	<iostream>
+	"IASComputer.h"
+
+1559926418 source:c:\users\matus\desktop\projeto_ias_computer\main.cpp
+	<iostream>
+	"IASComputer.h"
+
+1559936590 c:\users\matus\desktop\projeto_ias_computer\iascomputer.h
+	<vector>
+	<string>
+	<cstdint>
+	<stdio.h>
+	<array>
+	<stdlib.h>
+
+1559931778 source:c:\users\matus\desktop\projeto_ias_computer\iascomputer.cpp
+	"IASComputer.h"
+	<iostream>
+	<bitset>
+	<cmath>
+	<cstring>
+	<string>
+
+1560106776 source:c:\users\user\desktop\projeto_ias_computer\main.cpp
+	<iostream>
+	"IASComputer.h"
+
+1560108792 c:\users\user\desktop\projeto_ias_computer\iascomputer.h
+	<vector>
+	<string>
+	<cstdint>
+	<stdio.h>
+	<array>
+	<stdlib.h>
+
+1560113181 source:c:\users\user\desktop\projeto_ias_computer\iascomputer.cpp
+	"IASComputer.h"
+	<iostream>
+	<bitset>
+	<cmath>
+	<cstring>
+	<string>
+
